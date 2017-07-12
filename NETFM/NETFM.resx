@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>&lt;!DOCTYPEhtml&gt;&lt;html&gt;&lt;head&gt;&lt;metacharset="utf-8"&gt;&lt;metahttp-equiv="X-UA-Compatible"content="IE=edge"&gt;&lt;metaname="viewport"content="width=device-width,initial-scale=1"&gt;&lt;metaproperty="wb:webmaster"content="c1d1e78adfc575f7"/&gt;&lt;title&gt;.NETFM&lt;/title&gt;&lt;metaname="description"content="致力于推广.NET和微软技术的一档非典型严肃播客"&gt;&lt;linkrel="shortcuticon"href="/images/favicon.png"/&gt;&lt;linkrel="stylesheet"href="/css/main.css"&gt;&lt;linkrel="canonical"href="http://dotnet.fm/"&gt;&lt;linkrel="alternate"type="application/rss+xml"title=".NETFM"href="http://dotnet.fm/feed.xml"/&gt;&lt;/head&gt;&lt;body&gt;&lt;headerclass="site-header"&gt;&lt;divclass="wrapper"&gt;&lt;aclass="site-title"href="/"&gt;&lt;imgsrc="/images/logo.png"&gt;.NETFM&lt;/a&gt;&lt;navclass="site-nav"&gt;&lt;ahref="#"class="menu-icon"&gt;&lt;svgviewBox="001815"&gt;&lt;pathfill="#424242"d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/&gt;&lt;pathfill="#424242"d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/&gt;&lt;pathfill="#424242"d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;divclass="trigger"style="line-height:66px;"&gt;&lt;aclass="page-link"href="/subscribe/"&gt;订阅&lt;/a&gt;&lt;aclass="page-link"href="https://itunes.apple.com/cn/podcast/.net-fm/id1095210774"&gt;iTunes&lt;/a&gt;&lt;aclass="page-link"href="http://weibo.com/u/5886199047"&gt;Weibo&lt;/a&gt;&lt;aclass="page-link"href="/feed.xml"&gt;RSS&lt;/a&gt;&lt;aclass="page-link"href="mailto:hi@dotnet.fm"&gt;Email&lt;/a&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;&lt;/header&gt;&lt;divclass="page-content"&gt;&lt;divclass="wrapper"&gt;&lt;divclass="home"&gt;&lt;divclass="latest-entry"&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;23&lt;/div&gt;&lt;divclass="month"&gt;Mar&lt;/div&gt;&lt;/div&gt;&lt;divclass="entry-info"&gt;&lt;h1&gt;&lt;ahref="/subscribe/"&gt;如何收听.NETFM&lt;/a&gt;&lt;/h1&gt;&lt;divclass="entry-content"&gt;你可以选择第三方平台订阅收听，如&lt;ahref="http://www.ximalaya.com/zhubo/45305355"&gt;喜马拉雅&lt;/a&gt;、&lt;ahref="http://www.lizhi.fm/1996857/"&gt;荔枝FM、&lt;ahref="http://www.qingting.fm/#/vchannels/147160"&gt;蜻蜓FM&lt;/a&gt;，或者根据本篇&lt;ahref="/subscribe/"&gt;教程&lt;/a&gt;在iTunes、iPhone、Android上收听订阅我们的播客&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;divclass="latest-entry"&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;3&lt;/div&gt;&lt;divclass="month"&gt;Mar/2017&lt;/div&gt;&lt;/div&gt;&lt;divclass="entry-info"&gt;&lt;h1class="entry-title"&gt;&lt;ahref="/podcast/2017/03/03/S02E06.html"&gt;S02E06软记文娱播报:.NETCoreSDK,VSCode1.10,TS2.2和用户反馈&lt;/a&gt;&lt;/h1&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/S02E06.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2017/03/03/S02E06.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""preload="meta"&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/S02E06.mp3"/&gt;&lt;/audio&gt;&lt;divclass="entry-content"&gt;&lt;p&gt;上期文娱播报收到了不少大家正面的评价，本期LexLi回归，我们终于可以严肃讨论.NETCoreSDK,XamarinPlugin等等时下的技术新闻，并且第一次尝试进行回复用户反馈。&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ulclass="post-list"&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;21&lt;/div&gt;&lt;divclass="month"&gt;Feb/2017&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2017/02/21/S02E05.html"&gt;S02E05软记文娱播报​&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/S02E05.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2017/02/21/S02E05.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/S02E05.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;“什么，你不知道Xamarin.Forms要支持WPF？什么，你不知道VisualStudio2017就要发布了？什么，你不知道.NET刚过完15岁生日？”别担心，试试我们的新节目“软记文娱播报​”，这些你都会轻松了解，并且可以开心的分享给自己的小伙伴们哦！本期值班主播吕鹏，正在加拿大蒙特利儿找住处的Lex童鞋有望在下个月重新回到节目当中，敬请期待&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;16&lt;/div&gt;&lt;divclass="month"&gt;Jan/2017&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2017/01/16/S02E04.html"&gt;S02E04细数Cortana的那些竞争对手&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/S02E04.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2017/01/16/S02E04.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/S02E04.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;2011年苹果公司将Siri带到了广大用户的面前，开启了语音智能助理的新时代。其他技术公司很快跟进，涌现出GoogleNow、Alexa和Cortana等竞品。除了步调稍慢的Cortana，这些助理在最近几年都大步前进，走出电脑和手机，进入车载、电视、智能家居等更加生活化的场景。本期节目我们结合自身的使用体验来点评一下AppleSiri，GoolgeNow/Assistant和AmazonAlexa三个技术。不看不知道，未来Cortana团队要补的课程可不少呢。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;12&lt;/div&gt;&lt;divclass="month"&gt;Jan/2017&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2017/01/12/S02E03.html"&gt;S02E03迟到的Connect回顾&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/S02E03.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2017/01/12/S02E03.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/S02E03.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;这期节目分两次才录完，时间是Connect大会之后的连续两个周末，一期对于微软Connect2016大会的回顾。希望过去这么久，微软的新进展还能给各位带来一样的激动。假如你还没有玩起来这些新技术，可要抓紧了。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;12&lt;/div&gt;&lt;divclass="month"&gt;Nov/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/11/12/S02E02.html"&gt;S02E02VSCode究竟把npm怎么了&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/S02E02.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/11/12/S02E02.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/S02E02.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;VSCode在十一月二号接连发布了两个版本更新，并引发npmregistry出现问题。这究竟是谁的锅？一个编辑器为何能够使npm服务器出现问题？两位小编在本集为大家详细讲解。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;16&lt;/div&gt;&lt;divclass="month"&gt;Oct/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/10/16/S02E01.html"&gt;S02E01第二季开播&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/S02E01.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/10/16/S02E01.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/S02E01.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;主播吕鹏在忙完了这个暑假后，终于在西雅图安顿下来，趁此机会我们也将开始.NETFM第二季。在本季开篇第一集中，我们简短回顾了一下过去几个月.NET,TS,VSCode等产品的更新情况，并对即将到来的各个Conference做一点不着边的预测。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;17&lt;/div&gt;&lt;divclass="month"&gt;Jul/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/07/17/episode11.html"&gt;#11远程办公距离我们有多远？&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-11.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/07/17/episode11.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-11.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;在IT行业远程办公并不是一个新鲜事物，但真的试验下就会发现看似简单的工作方式，既带来了种种便利，又对自己提出了更高的要求。本期吕鹏同学现身说法，讲讲他短短一个月的体会（另一位主播纯打酱油&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;29&lt;/div&gt;&lt;divclass="month"&gt;Jun/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/06/29/episode-dotnet10.html"&gt;番外——关于.NETCore1.0的ABC&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-netcore10.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/06/29/episode-dotnet10.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-netcore10.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;.NETCore1.0就这么来了，被热火朝天的欧洲杯完全掩盖了。作为忠诚的微软社区一员，你对这个新平台了解多少？有没有准备近期上手？或许你已经有了一些问题需要解答。本期番外试图带你回顾.NETCore的诞生历程，以及和它兄弟.NETFramework的些许区别，抛砖引玉意图明显，但肯定值得一听哦！&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;26&lt;/div&gt;&lt;divclass="month"&gt;Jun/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/06/26/episode10.html"&gt;#10漫谈WWDC2016&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-10.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/06/26/episode10.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-10.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;苹果公司每年除去春秋两季的新产品发布会，其实还举办一次完全面向开发者的技术会议，即WWDC大会。卢建晖老师再次光临，为大家安利一下今年的WWDC为我们带来了哪些新技术。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;11&lt;/div&gt;&lt;divclass="month"&gt;Jun/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/06/11/episode-stories-behind.html"&gt;番外--.NETFM前的故事&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnetfm-episode-stories-behind.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/06/11/episode-stories-behind.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnetfm-episode-stories-behind.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;本周为LexLi单口，讲述.NETFM诞生之前的故事，希望给对播客录制感兴趣的朋友提供一些有用的信息。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;23&lt;/div&gt;&lt;divclass="month"&gt;May/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/05/23/episode8.html"&gt;#8谁说开源就聊不得&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-8.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/05/23/episode8.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-8.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;某位主播依然在异国他乡鬼混，导致.NETFM近期的上线各种不规律，在被另一位主播批评后决定改正，深夜录制了本期海外特别档。随着大公司纷纷改头换面拥抱开源，主播们的工作也逐渐从闭源商业软件或服务开始往开源的方向上不断靠近，这一期在四五年前还是不敢想象的。两位分享了从各自第一次接触开源到深度参与、主持开源项目中间发生的种种故事，探讨了OpenSource,FreeSoftware，GPL还是MIT等等容易被人们混淆的误区，力求给希望参与到开源运动中的听众们一些中肯的建议。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;10&lt;/div&gt;&lt;divclass="month"&gt;May/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/05/10/episode7.html"&gt;#7VisualStudioCode解密第一季：深入浅出&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-7.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/05/10/episode7.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-7.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;2015年初的Build大会上，微软公布了自己的跨平台代码编辑器VisualStudioCode。到了年底的时候，这个编辑器开始支持插件，并且完全开源。这些都使得这个小巧的工具在2016年初收到了越来越多的关注。2016年4月14日，VisualStudioCode1.0正式版也如约而至。本期节目中，两位主播将为你揭开它的前世今生，和与它相关的各种前沿技术。同时作为国内最早一批参与插件撰写的专家，他们也分享了各自编写插件的经验。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;5&lt;/div&gt;&lt;divclass="month"&gt;May/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/05/05/episode6.html"&gt;#6来者何人一一与跨平台移动开发专家卢建晖谈Evolve2016&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-6.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/05/05/episode6.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-6.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;Xamarin被微软公司收购之后，已经在三月底Build大会上展示了部分新技术，这让人对四月底Evolve大会充满期待。上周，果不其然Xamarin在主题演讲中发布了Xamarin.FormsPreviewer等令人兴奋的新产品。本期节目，我们请来国内跨平台移动应用开发专家卢建晖，为大家回顾此次大会的亮点。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;24&lt;/div&gt;&lt;divclass="month"&gt;Apr/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/04/24/episode5.html"&gt;#5.来者何人－－与资深架构师、微软MVP张善友探讨.NET跨平台和技术人的追求&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-5.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/04/24/episode5.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-5.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;本期我们请来了.NET跨平台重量级嘉宾张善友老师，聊一聊他十多年的技术生涯以及如何在腾讯使用.NET跨平台技术实现日均千万级访问量的基础服务平台。善友老师还不忘给两位主播分享了他两次受邀到微软西雅图总部的有趣经历。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;10&lt;/div&gt;&lt;divclass="month"&gt;Apr/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/04/10/episode4.html"&gt;#4.来者何人－－与资深CloudOPS架构师钱永超聊Linux&lt;3.NET&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-4.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/04/10/episode4.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-4.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;无论是三月底RedHat,JetBrains和Unity宣布加入.NETFoundation，还是微软一直持续高喊的“Microsoft3Linux”，种种迹象表明，微软技术圈和Unix/Linux世界的关系仿佛从当年“Linuxisacancer”的阴霾中走了出来。本期我们邀请到了原携程私有云架构师、eBayStaffUnixSystemAdmin钱永超来和我们聊聊，作为一个浸淫在*inx世界快十年的工程师，是如何提起「勇气」迈出跨界.NET圈的第一步的。两位主播也不忘借此机会偷师一二，向钱老师讨教如何学习Linux以及Docker相关的知识，跟上.NET跨平台的浪潮。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;3&lt;/div&gt;&lt;divclass="month"&gt;Apr/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/04/03/episode3.html"&gt;第三弹：兑现承诺－－主播眼中的Build2016&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-3.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/04/03/episode3.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-3.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;微软公司从三月初起连续公布一系列重要新闻，如SQLServeronLinux，如加入Eclipse基金会，如HoloLens将正式发货，都使得大家更加关注三月底在旧金山举办的Build大会。本期节目由二位主播回顾大会中精彩的主题演讲内容，并为你梳理不可不关注的技术焦点。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;27&lt;/div&gt;&lt;divclass="month"&gt;Mar/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/03/27/episode2.html"&gt;第二弹：来者何人开篇－－主播的心路历程&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-2.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/03/27/episode2.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-2.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;微软公司进入中国已有超过二十年历史，因此国内微软技术社区在它多年耕耘之后也是繁花似锦。我们将在全新启动的“来者何人”系列中，对于国内微软技术社区的专家们一一访谈，挖掘他们的成长经历和人生感悟，以饲听众。本期节目就先由二位主播吕鹏和LexLi介绍他们各自的心路历程，揭秘一下如何成为微软员工或者微软MVP技术专家。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;divclass="post-date"&gt;&lt;divclass="day"&gt;20&lt;/div&gt;&lt;divclass="month"&gt;Mar/2016&lt;/div&gt;&lt;/div&gt;&lt;divclass="post-info"&gt;&lt;h2&gt;&lt;aclass="post-link"href="/podcast/2016/03/20/episode1.html"&gt;第一弹：Build的那几年&lt;/a&gt;&lt;/h2&gt;&lt;divclass="post-meta"&gt;&lt;ahref="http://dotnet.b0.upaiyun.com/dotnet-episode-1.mp3"&gt;DownloadEpisode&lt;/a&gt;•&lt;ahref="/podcast/2016/03/20/episode1.html#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/div&gt;&lt;audioclass="episode-player"controls=""&gt;&lt;sourcesrc="http://dotnet.b0.upaiyun.com/dotnet-episode-1.mp3"/&gt;&lt;/audio&gt;&lt;/div&gt;&lt;divclass="post-summary"&gt;&lt;p&gt;科技公司主办技术会议在欧美早有传统，近年在国内也是如此。微软公司就办过PDC、MIX、TechEd、Build、Ignite、Connect等各式各样的会议。其中Build大会作为近年来聚焦于Windows平台各种新技术发布的一个新平台，已经越来越受到大家的关注。今年的Build大会即将于三月三十日在美国西岸城市旧金山召开。在此次盛会开幕之前，由吕鹏和LexLi二位带你先行回顾下Build2011-2015的往届热点。我们也将结合近期各种消息源，尝试猜测Build2016会给各位带来何种惊喜。&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;footerclass="site-footer"&gt;&lt;divclass="wrapper"&gt;&lt;p&gt;Copyright&amp;copy;2016.NETFM•&lt;ahref="lextudio.com"target="_blank"&gt;LexLi&lt;/a&gt;•&lt;ahref="https://rebornix.com"target="_blank"&gt;Rebornix&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/footer&gt;&lt;script&gt;(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*newDate();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-75374319-1','auto');ga('send','pageview');&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</value>
+  </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>
